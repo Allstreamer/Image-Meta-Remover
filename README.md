@@ -5,7 +5,8 @@ Need some metadata to be scrubed, then this is perfect!
 <br>
 > Download Link
 
-Download here [https://github.com]
+Download here [https://github.com/Allstreamer/Image-Meta-Remover/releases/tag/v1.0.0]
+[![Generic badge](https://img.shields.io/badge/Version-1.0.0-<COLOR>.svg)](https://shields.io/)
                 
 ----
 ## How to Use
